@@ -6,4 +6,4 @@ This repository was created for Part 2 of my assignment 7 lab (Setting up Github
 * Set up another branch called "newBranch" where I created another file to practice making changes.
 * Created a pull request to merge the updates made into the main branch.
 
-This project was a nice introduction to Github and helped me learn what a repository is, how to manage branches, how to create files in a branch and how to do pull requests. 
+In this assignment we practiced creating branches, managing pull requests, and making sure the final code merges correctly.
